@@ -1,0 +1,14 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZechariahMcPherson/typescript-playground.git",
+  "author": "G. Zechariah McPherson <ZechariahMcPherson@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
